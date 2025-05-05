@@ -26,7 +26,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40" /></a>
 
-<h3 align="left">🛠️ My Stack & Tools of Choice</h3>
+<h3 align="left">🛠️ Tools</h3>
 🚀 CI/CD
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
