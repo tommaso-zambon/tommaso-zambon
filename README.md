@@ -1,5 +1,5 @@
 <h1 align="center">Tommaso Zambon</h1>
-<h3 align="center">Software Engineer & Architecture Enthusiast</h3>
+<h3 align="center">Fullstack developer & architecture enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tommaso-zambon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter for Tommaso Zambon's GitHub profile" role="img" />
@@ -8,8 +8,8 @@
 ## 🧭 Philosophy
 
 - 🧱 **OOP + SOLID** for clean, maintainable code
-- 📐 **MVC & Layered Architecture** to separate concerns
-- 🧰 **GoF Patterns** because abstraction is key
+- 📐 **MVC & layered architecture** to separate concerns
+- 🧰 **GoF patterns** because abstraction is key
 - ♻️ **DRY** and **KISS** to keep things simple and scalable
 - ♿ **Accessible**, because all software should be
 
@@ -30,14 +30,14 @@ The best architectures were already defined decades ago, and they still stand th
 
 <h3 align="left">🛠️ Tools</h3>
 
-🚀 CI/CD & Workflow
+🚀 CI/CD & workflow
 <p align="left" role="list">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker container platform icon" width="40" height="40" border="0"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git version control system icon" width="40" height="40" border="0"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Atlassian Jira project management icon" width="40" height="40" border="0"/></a>
 </p>
 
-🧪 Testing & Debugging
+🧪 Testing & debugging
 <p align="left" role="list">
   <a href="https://postman.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API testing tool icon" width="40" height="40" border="0"/></a>
 </p>
@@ -55,3 +55,4 @@ The best architectures were already defined decades ago, and they still stand th
 <p align="left" role="list">
   <a href="https://redis.io" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis in-memory data store icon" width="40" height="40" border="0"/></a>
 </p>
+
