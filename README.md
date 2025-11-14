@@ -1,5 +1,4 @@
-<h1 align="center">Tommaso Zambon</h1>
-<h3 align="center">Fullstack developer & architecture enthusiast</h3>
+<h2 align="center">Fullstack developer & architecture enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tommaso-zambon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter for Tommaso Zambon's GitHub profile" role="img" />
@@ -55,4 +54,5 @@ The best architectures were already defined decades ago, and they still stand th
 <p align="left" role="list">
   <a href="https://redis.io" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis in-memory data store icon" width="40" height="40" border="0"/></a>
 </p>
+
 
