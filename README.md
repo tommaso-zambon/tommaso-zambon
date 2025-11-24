@@ -10,10 +10,10 @@
 - 📐 **MVC & layered architecture** to separate concerns
 - 🧰 **GoF patterns** because abstraction is key
 - ♻️ **DRY** and **KISS** to keep things simple and scalable
-- ♿ **Accessible**, because all software should be
+- ♿ **Accessible**, as all software should be
 
 **If you can't find your favorite framework in my stack, it's because I believe in simplicity.**  
-I'm a purist—less is more. You don't need the latest, trendiest framework to build clean, maintainable software.  
+I'm a purist, less is more. You don't need the latest, trendiest framework to build clean, maintainable software.  
 The best architectures were already defined decades ago, and they still stand the test of time.
 
 <h3 align="left">What I use on (current) job:</h3>
@@ -54,6 +54,7 @@ The best architectures were already defined decades ago, and they still stand th
 <p align="left" role="list">
   <a href="https://redis.io" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis in-memory data store icon" width="40" height="40" border="0"/></a>
 </p>
+
 
 
 
