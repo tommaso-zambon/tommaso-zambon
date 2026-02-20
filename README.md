@@ -35,8 +35,14 @@ I approach development as an engineering practice.
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate ORM framework icon" width="40" height="40" border="0"/></a>
 </p>
 
-<h3 align="left">🛠️ Tools</h3>
+<h3 align="left">Technologies I know, but prefer to avoid</h3>
+<p align="left" role="list">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap CSS framework icon" width="40" height="40" border="0"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS framework icon" width="40" height="40" border="0"/></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery JavaScript library icon" width="40" height="40" border="0"/></a>
+</p>
 
+<h3 align="left">🛠️ Tools</h3>
 🚀 CI/CD & workflow
 <p align="left" role="list">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker container platform icon" width="40" height="40" border="0"/></a>
@@ -49,14 +55,8 @@ I approach development as an engineering practice.
   <a href="https://postman.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API testing tool icon" width="40" height="40" border="0"/></a>
 </p>
 
-<h3 align="left">Technologies I know but prefer to avoid</h3>
-<p align="left" role="list">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap CSS framework icon" width="40" height="40" border="0"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS framework icon" width="40" height="40" border="0"/></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery JavaScript library icon" width="40" height="40" border="0"/></a>
-</p>
-
 ### Future steps
 - Understanding concurrency and thread-safe design
 - Learning observability concepts (logging, metrics, tracing)
 - Understanding deployment and runtime behavior in containerized environments
+
