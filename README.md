@@ -5,18 +5,26 @@
 </p>
 
 ## 🧭 Philosophy
-
-- 🧱 **OOP + SOLID** for clean, maintainable code
-- 📐 **MVC & layered architecture** to separate concerns
-- 🧰 **GoF patterns** because abstraction is key
-- ♻️ **DRY** and **KISS** to keep things simple and scalable
-- ♿ **Accessible**, as all software should be
-
 **If you can't find your favorite framework in my stack, it's because I believe in simplicity.**  
-I'm a purist, less is more. You don't need the latest, trendiest framework to build clean, maintainable software.  
-The best architectures were already defined decades ago, and they still stand the test of time.
+Clean software does not require trendy frameworks: it requires clear thinking, good boundaries, and disciplined design.
 
-<h3 align="left">What I use on (current) job:</h3>
+I approach development as an engineering practice.
+
+### Current focus, actively improving
+- Moving business logic out of controllers into domain-oriented services
+- Applying SOLID principles
+- Replacing conditional logic with strategy or polymorphic designs when appropriate
+- Writing framework-independent business logic
+- Improving code readability through smaller, cohesive components
+
+### Direction, next steps
+- Studying and implementing classic data structures
+- Measuring algorithmic complexity
+- Identifying performance bottlenecks
+- Understanding JVM memory behavior and object allocation costs
+- Designing systems that scale through architecture rather than hardware
+
+<h3 align="left">What I use on (current) job</h3>
 <p align="left" role="list">
   <a href="https://www.java.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java programming language icon" width="40" height="40" border="0"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server database icon" width="40" height="40" border="0"/></a>
@@ -41,20 +49,14 @@ The best architectures were already defined decades ago, and they still stand th
   <a href="https://postman.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API testing tool icon" width="40" height="40" border="0"/></a>
 </p>
 
-<h3 align="left">
-  I can use them, but I choose not to in my projects:
-</h3>
+<h3 align="left">Technologies I know but prefer to avoid</h3>
 <p align="left" role="list">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap CSS framework icon" width="40" height="40" border="0"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS framework icon" width="40" height="40" border="0"/></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery JavaScript library icon" width="40" height="40" border="0"/></a>
 </p>
 
-<h3 align="left">Learning...</h3>
-<p align="left" role="list">
-  <a href="https://redis.io" target="_blank" rel="noreferrer" role="listitem"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis in-memory data store icon" width="40" height="40" border="0"/></a>
-</p>
-
-
-
-
+### Future steps
+- Understanding concurrency and thread-safe design
+- Learning observability concepts (logging, metrics, tracing)
+- Understanding deployment and runtime behavior in containerized environments
